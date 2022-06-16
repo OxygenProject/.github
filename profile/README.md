@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 OxygenProject
 
 <!--
 
@@ -11,5 +11,29 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![OxygenProject's github stats](https://github-readme-stats.vercel.app/api?username=OxygenProject&show_icons=true)](https://github.com/OxygenProject)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenProject)](https://github.com/OxygenProject)
+[OxygenProject](https://github.com/OxygenProject) 
+
+专注于兴趣与社交
+  
+1.[oxygen-server](https://github.com/OxygenProject/oxygen-server)
+
+氧气服务端
+
+spring boot
+spring security + jwt
+mybatis
+mysql
+redis
+
+2.[oxygen_admin](https://github.com/OxygenProject/oxygen_admin)
+
+氧气后台管理
+
+vue
+
+3.[oxygen](https://github.com/OxygenProject/oxygen)
+
+氧气APP
+
+flutter
+
