@@ -15,7 +15,7 @@
 
 专注于兴趣与社交
   
-1.[oxygen-server](https://github.com/OxygenProject/oxygen-server)
+1.[oxygen_server](https://github.com/OxygenProject/oxygen_server)
 
 氧气服务端
 
