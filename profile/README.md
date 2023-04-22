@@ -13,7 +13,7 @@
 
 [OxygenProject](https://github.com/OxygenProject) 
 
-专注于兴趣与社交
+Focus on interest and social networking
 
 1.[oxygen_server](https://github.com/OxygenProject/oxygen_server)
 
